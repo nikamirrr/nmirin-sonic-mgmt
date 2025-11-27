@@ -9,7 +9,7 @@ from ansible.errors import AnsibleError
 __metaclass__ = type
 
 DOCUMENTATION = """
-        lookup: graphfile
+        lookup: graphfile doc
         version_added: "1.0"
         short_description: find connection graph file that has DUTs listed defined.
         description:
